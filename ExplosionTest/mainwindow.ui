@@ -24,7 +24,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>Mao</string>
+     <string>Common</string>
     </property>
    </widget>
    <widget class="QPushButton" name="terbt">
@@ -37,7 +37,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>Ter</string>
+     <string>Coward</string>
     </property>
    </widget>
    <widget class="QPushButton" name="lebt">

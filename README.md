@@ -36,6 +36,14 @@ It is a method to determine the mine gas explosibility.
 
 !["Kukuczka"](https://raw.githubusercontent.com/TyeYeah/ExplosionTestQTDemo/master/Kukuczka.png)
 
-## Features
+## Furthermore
 
-This is a Demo and an attemption to code with QT, but few efforts on using signal slot, which means many aspects need to be improved.
+To convert QT project to one executable file (xx.exe), see [QT wiki page](https://wiki.qt.io/Build_Standalone_Qt_Application_for_Windows) to build a static application
+
+Or
+
+- change directory to you project's build & debug dir
+- open cmd and enter "windeployqt yourprogram.exe", then dependencies copied to this dir
+- use Enigma Virtual Box to pack all the dlls and yourprogram.exe
+
+Finally you get one dynamic linked executable file

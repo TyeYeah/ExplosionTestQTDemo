@@ -2,7 +2,14 @@
 
 ## Intro
 
-This program is written to do simple boom tests, and it includes four kinds of tests, which are "Common" for common air composition, "Coward" based on ["Coward Triangle"](https://github.com/TyeYeah/ExplosionTestQTDemo/blob/master/Coward.jpg), "Le chart" based on ["Le Chatelier"](https://github.com/TyeYeah/ExplosionTestQTDemo/blob/master/Le%20Chatelier.jpg), and "Kukuczka" using ["Kukuczka' Method"](https://github.com/TyeYeah/ExplosionTestQTDemo/blob/master/Kukuczka.png) to check explosibility.
+This program is written to do simple boom tests, and it includes four kinds of tests, which are "Common" for common air composition.
+"Coward" based on ["Coward Triangle"](https://github.com/TyeYeah/ExplosionTestQTDemo/blob/master/Coward.jpg),
+!["Coward Triangle"](https://github.com/TyeYeah/ExplosionTestQTDemo/blob/master/Coward.jpg)
+"Le chart" based on ["Le Chatelier"](https://github.com/TyeYeah/ExplosionTestQTDemo/blob/master/Le%20Chatelier.jpg),
+!["Le Chatelier"](https://github.com/TyeYeah/ExplosionTestQTDemo/blob/master/Le%20Chatelier.jpg)
+"Kukuczka" using ["Kukuczka' Method"](https://github.com/TyeYeah/ExplosionTestQTDemo/blob/master/Kukuczka.png)
+!["Kukuczka' Method"](https://github.com/TyeYeah/ExplosionTestQTDemo/blob/master/Kukuczka.png)
+to check explosibility.
 
 Those above are familiar to students who studying Combustion Science, and this can be a roughcast for them to build their personal tools to calculate explosibility.
 
